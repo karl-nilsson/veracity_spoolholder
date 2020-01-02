@@ -20,7 +20,7 @@ filamentholesize = 2;
 play = 0.025;
 
 // resolution higher: more details but more CPU - use 50 for rendering
-facets = 15;
+facets = 50;
 
 // width of the label plate
 labelwidth = 94;
@@ -41,7 +41,7 @@ innerradius = 103/2;
 // MasterSpool outer radius of the naked filament spool - do not modify
 outerradius = 190/2;
 // MasterSpool width of the naked filament spool - do not modify
-width       = 46;
+width       = 55;
 
 // radius of the spokes
 spokecornerradius = 2;
