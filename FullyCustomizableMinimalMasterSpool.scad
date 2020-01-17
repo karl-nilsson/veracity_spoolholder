@@ -1,5 +1,5 @@
 // part to be rendered
-part = "spoke";   // ["hub":hub,"spoke":spoke,"spokelabel":spoke with label plate,"labelclip":label clip,"testspoke":spoke test element,"testhub":hub test element,"testfilamenthole":filament test hole]
+part = "hub";   // ["hub":hub,"spoke":spoke,"spokelabel":spoke with label plate,"labelclip":label clip,"testspoke":spoke test element,"testhub":hub test element,"testfilamenthole":filament test hole]
 
 // radius of the axle hole
 axleradius  = 20;       // [10:42]
@@ -17,7 +17,7 @@ hubstandoffs = 3;
 filamentholesize = 2;
 
 // play between assembled parts for best friction fit, depends on your printer setup
-play = 0.025;
+play = 0.35;
 
 // resolution higher: more details but more CPU - use 50 for rendering
 facets = 50;
